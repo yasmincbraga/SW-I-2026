@@ -14,7 +14,8 @@
     } else {
         //Volta formulario
         // echo "Volta para o formulario";
-        header('Location: formulario.php');
+        // header('Location: formulario.php');
+        
     }
     
 ?>
